@@ -1,0 +1,1 @@
+vless://20000000-0000-4000-8000-0000000006a1@a.s6b-canary.example.com:443?encryption=none&type=tcp&security=reality&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=0123abcd&sni=a.s6b-canary.example.com#S6B-A
