@@ -1,2 +1,1 @@
 vless://20000000-0000-4000-8000-0000000006a1@a.s6b-canary.example.com:443?encryption=none&type=tcp&security=reality&fp=chrome&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=0123abcd&sni=a.s6b-canary.example.com#S6B-A
-vless://22222222-2222-4222-8222-222222222222@b.s6b-canary.example.com:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&sid=5678abcd&sni=b.s6b-canary.example.com#S6B-B
